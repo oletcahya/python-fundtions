@@ -7,3 +7,6 @@ cahya("yusuf")
 cahya("ifan")
 cahya("erick")
 cahya("rangga")
+
+cahya("olet")
+cahya("syuhada")
