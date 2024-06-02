@@ -10,3 +10,4 @@ cahya("rangga")
 
 cahya("olet")
 cahya("syuhada")
+cahya("terbaik")
